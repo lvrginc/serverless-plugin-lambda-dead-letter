@@ -1,5 +1,5 @@
 {
-  "name": "serverless-plugin-lambda-dead-letter",
+  "name": "@lvrg/serverless-plugin-lambda-dead-letter",
   "version": "1.2.1",
   "description": "serverless plugin that can configure a lambda with a dead letter queue or topic",
   "main": "src/index.js",
@@ -8,16 +8,6 @@
   },
   "engines": {
     "node": ">=4.0"
-  },
-  "author": "Gary Metzker",
-  "license": "MIT",
-  "homepage": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gmetzker/serverless-plugin-lambda-dead-letter/issues"
   },
   "keywords": [
     "serverless",
